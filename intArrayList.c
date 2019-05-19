@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include "intArrayList.h"
 
 intArrayList* intArrayList_create(int length) {
